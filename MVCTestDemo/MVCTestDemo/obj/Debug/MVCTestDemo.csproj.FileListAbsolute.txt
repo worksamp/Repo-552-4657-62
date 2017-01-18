@@ -1,0 +1,138 @@
+c:\users\462439\documents\visual studio 2015\Projects\MVCTestDemo\MVCTestDemo\bin\roslyn\csc.exe
+c:\users\462439\documents\visual studio 2015\Projects\MVCTestDemo\MVCTestDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\462439\documents\visual studio 2015\Projects\MVCTestDemo\MVCTestDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\462439\documents\visual studio 2015\Projects\MVCTestDemo\MVCTestDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\462439\documents\visual studio 2015\Projects\MVCTestDemo\MVCTestDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\462439\documents\visual studio 2015\Projects\MVCTestDemo\MVCTestDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\462439\documents\visual studio 2015\Projects\MVCTestDemo\MVCTestDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\462439\documents\visual studio 2015\Projects\MVCTestDemo\MVCTestDemo\bin\roslyn\System.Collections.Immutable.dll
+c:\users\462439\documents\visual studio 2015\Projects\MVCTestDemo\MVCTestDemo\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\462439\documents\visual studio 2015\Projects\MVCTestDemo\MVCTestDemo\bin\roslyn\vbc.exe
+c:\users\462439\documents\visual studio 2015\Projects\MVCTestDemo\MVCTestDemo\bin\roslyn\VBCSCompiler.exe
+c:\users\462439\documents\visual studio 2015\Projects\MVCTestDemo\MVCTestDemo\bin\roslyn\VBCSCompiler.exe.config
+c:\users\462439\documents\visual studio 2015\Projects\MVCTestDemo\MVCTestDemo\bin\MVCTestDemo.dll.config
+c:\users\462439\documents\visual studio 2015\Projects\MVCTestDemo\MVCTestDemo\bin\MVCTestDemo.dll
+c:\users\462439\documents\visual studio 2015\Projects\MVCTestDemo\MVCTestDemo\bin\MVCTestDemo.pdb
+c:\users\462439\documents\visual studio 2015\Projects\MVCTestDemo\MVCTestDemo\bin\Antlr3.Runtime.dll
+c:\users\462439\documents\visual studio 2015\Projects\MVCTestDemo\MVCTestDemo\bin\EntityFramework.dll
+c:\users\462439\documents\visual studio 2015\Projects\MVCTestDemo\MVCTestDemo\bin\EntityFramework.SqlServer.dll
+c:\users\462439\documents\visual studio 2015\Projects\MVCTestDemo\MVCTestDemo\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\462439\documents\visual studio 2015\Projects\MVCTestDemo\MVCTestDemo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\462439\documents\visual studio 2015\Projects\MVCTestDemo\MVCTestDemo\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\462439\documents\visual studio 2015\Projects\MVCTestDemo\MVCTestDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\462439\documents\visual studio 2015\Projects\MVCTestDemo\MVCTestDemo\bin\Microsoft.Owin.dll
+c:\users\462439\documents\visual studio 2015\Projects\MVCTestDemo\MVCTestDemo\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\462439\documents\visual studio 2015\Projects\MVCTestDemo\MVCTestDemo\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\462439\documents\visual studio 2015\Projects\MVCTestDemo\MVCTestDemo\bin\Microsoft.Owin.Security.dll
+c:\users\462439\documents\visual studio 2015\Projects\MVCTestDemo\MVCTestDemo\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\462439\documents\visual studio 2015\Projects\MVCTestDemo\MVCTestDemo\bin\Microsoft.Owin.Security.Google.dll
+c:\users\462439\documents\visual studio 2015\Projects\MVCTestDemo\MVCTestDemo\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\462439\documents\visual studio 2015\Projects\MVCTestDemo\MVCTestDemo\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\462439\documents\visual studio 2015\Projects\MVCTestDemo\MVCTestDemo\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\462439\documents\visual studio 2015\Projects\MVCTestDemo\MVCTestDemo\bin\Microsoft.Web.Infrastructure.dll
+c:\users\462439\documents\visual studio 2015\Projects\MVCTestDemo\MVCTestDemo\bin\Newtonsoft.Json.dll
+c:\users\462439\documents\visual studio 2015\Projects\MVCTestDemo\MVCTestDemo\bin\Owin.dll
+c:\users\462439\documents\visual studio 2015\Projects\MVCTestDemo\MVCTestDemo\bin\System.Web.Helpers.dll
+c:\users\462439\documents\visual studio 2015\Projects\MVCTestDemo\MVCTestDemo\bin\System.Web.Mvc.dll
+c:\users\462439\documents\visual studio 2015\Projects\MVCTestDemo\MVCTestDemo\bin\System.Web.Optimization.dll
+c:\users\462439\documents\visual studio 2015\Projects\MVCTestDemo\MVCTestDemo\bin\System.Web.Razor.dll
+c:\users\462439\documents\visual studio 2015\Projects\MVCTestDemo\MVCTestDemo\bin\System.Web.WebPages.Deployment.dll
+c:\users\462439\documents\visual studio 2015\Projects\MVCTestDemo\MVCTestDemo\bin\System.Web.WebPages.dll
+c:\users\462439\documents\visual studio 2015\Projects\MVCTestDemo\MVCTestDemo\bin\System.Web.WebPages.Razor.dll
+c:\users\462439\documents\visual studio 2015\Projects\MVCTestDemo\MVCTestDemo\bin\WebGrease.dll
+c:\users\462439\documents\visual studio 2015\Projects\MVCTestDemo\MVCTestDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\462439\documents\visual studio 2015\Projects\MVCTestDemo\MVCTestDemo\bin\System.Web.Helpers.xml
+c:\users\462439\documents\visual studio 2015\Projects\MVCTestDemo\MVCTestDemo\bin\System.Web.Mvc.xml
+c:\users\462439\documents\visual studio 2015\Projects\MVCTestDemo\MVCTestDemo\bin\System.Web.Optimization.xml
+c:\users\462439\documents\visual studio 2015\Projects\MVCTestDemo\MVCTestDemo\bin\System.Web.Razor.xml
+c:\users\462439\documents\visual studio 2015\Projects\MVCTestDemo\MVCTestDemo\bin\System.Web.WebPages.xml
+c:\users\462439\documents\visual studio 2015\Projects\MVCTestDemo\MVCTestDemo\bin\System.Web.WebPages.Deployment.xml
+c:\users\462439\documents\visual studio 2015\Projects\MVCTestDemo\MVCTestDemo\bin\System.Web.WebPages.Razor.xml
+c:\users\462439\documents\visual studio 2015\Projects\MVCTestDemo\MVCTestDemo\bin\Antlr3.Runtime.pdb
+c:\users\462439\documents\visual studio 2015\Projects\MVCTestDemo\MVCTestDemo\bin\Newtonsoft.Json.xml
+c:\users\462439\documents\visual studio 2015\Projects\MVCTestDemo\MVCTestDemo\bin\EntityFramework.xml
+c:\users\462439\documents\visual studio 2015\Projects\MVCTestDemo\MVCTestDemo\bin\EntityFramework.SqlServer.xml
+c:\users\462439\documents\visual studio 2015\Projects\MVCTestDemo\MVCTestDemo\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\462439\documents\visual studio 2015\Projects\MVCTestDemo\MVCTestDemo\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\462439\documents\visual studio 2015\Projects\MVCTestDemo\MVCTestDemo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\462439\documents\visual studio 2015\Projects\MVCTestDemo\MVCTestDemo\bin\Microsoft.Owin.xml
+c:\users\462439\documents\visual studio 2015\Projects\MVCTestDemo\MVCTestDemo\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\462439\documents\visual studio 2015\Projects\MVCTestDemo\MVCTestDemo\bin\Microsoft.Owin.Security.xml
+c:\users\462439\documents\visual studio 2015\Projects\MVCTestDemo\MVCTestDemo\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\462439\documents\visual studio 2015\Projects\MVCTestDemo\MVCTestDemo\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\462439\documents\visual studio 2015\Projects\MVCTestDemo\MVCTestDemo\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\462439\documents\visual studio 2015\Projects\MVCTestDemo\MVCTestDemo\bin\Microsoft.Owin.Security.Google.xml
+c:\users\462439\documents\visual studio 2015\Projects\MVCTestDemo\MVCTestDemo\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\462439\documents\visual studio 2015\Projects\MVCTestDemo\MVCTestDemo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\462439\documents\visual studio 2015\Projects\MVCTestDemo\MVCTestDemo\obj\Debug\MVCTestDemo.csprojResolveAssemblyReference.cache
+c:\users\462439\documents\visual studio 2015\Projects\MVCTestDemo\MVCTestDemo\obj\Debug\MVCTestDemo.dll
+c:\users\462439\documents\visual studio 2015\Projects\MVCTestDemo\MVCTestDemo\obj\Debug\MVCTestDemo.pdb
+D:\Arti\MVCTestDemo\MVCTestDemo\bin\roslyn\csc.exe
+D:\Arti\MVCTestDemo\MVCTestDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Arti\MVCTestDemo\MVCTestDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Arti\MVCTestDemo\MVCTestDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Arti\MVCTestDemo\MVCTestDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Arti\MVCTestDemo\MVCTestDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Arti\MVCTestDemo\MVCTestDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Arti\MVCTestDemo\MVCTestDemo\bin\roslyn\System.Collections.Immutable.dll
+D:\Arti\MVCTestDemo\MVCTestDemo\bin\roslyn\System.Reflection.Metadata.dll
+D:\Arti\MVCTestDemo\MVCTestDemo\bin\roslyn\vbc.exe
+D:\Arti\MVCTestDemo\MVCTestDemo\bin\roslyn\VBCSCompiler.exe
+D:\Arti\MVCTestDemo\MVCTestDemo\bin\roslyn\VBCSCompiler.exe.config
+D:\Arti\MVCTestDemo\MVCTestDemo\bin\MVCTestDemo.dll.config
+D:\Arti\MVCTestDemo\MVCTestDemo\bin\MVCTestDemo.dll
+D:\Arti\MVCTestDemo\MVCTestDemo\bin\MVCTestDemo.pdb
+D:\Arti\MVCTestDemo\MVCTestDemo\bin\Antlr3.Runtime.dll
+D:\Arti\MVCTestDemo\MVCTestDemo\bin\EntityFramework.dll
+D:\Arti\MVCTestDemo\MVCTestDemo\bin\EntityFramework.SqlServer.dll
+D:\Arti\MVCTestDemo\MVCTestDemo\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Arti\MVCTestDemo\MVCTestDemo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Arti\MVCTestDemo\MVCTestDemo\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Arti\MVCTestDemo\MVCTestDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Arti\MVCTestDemo\MVCTestDemo\bin\Microsoft.Owin.dll
+D:\Arti\MVCTestDemo\MVCTestDemo\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Arti\MVCTestDemo\MVCTestDemo\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Arti\MVCTestDemo\MVCTestDemo\bin\Microsoft.Owin.Security.dll
+D:\Arti\MVCTestDemo\MVCTestDemo\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Arti\MVCTestDemo\MVCTestDemo\bin\Microsoft.Owin.Security.Google.dll
+D:\Arti\MVCTestDemo\MVCTestDemo\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Arti\MVCTestDemo\MVCTestDemo\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Arti\MVCTestDemo\MVCTestDemo\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Arti\MVCTestDemo\MVCTestDemo\bin\Microsoft.Web.Infrastructure.dll
+D:\Arti\MVCTestDemo\MVCTestDemo\bin\Newtonsoft.Json.dll
+D:\Arti\MVCTestDemo\MVCTestDemo\bin\Owin.dll
+D:\Arti\MVCTestDemo\MVCTestDemo\bin\System.Web.Helpers.dll
+D:\Arti\MVCTestDemo\MVCTestDemo\bin\System.Web.Mvc.dll
+D:\Arti\MVCTestDemo\MVCTestDemo\bin\System.Web.Optimization.dll
+D:\Arti\MVCTestDemo\MVCTestDemo\bin\System.Web.Razor.dll
+D:\Arti\MVCTestDemo\MVCTestDemo\bin\System.Web.WebPages.Deployment.dll
+D:\Arti\MVCTestDemo\MVCTestDemo\bin\System.Web.WebPages.dll
+D:\Arti\MVCTestDemo\MVCTestDemo\bin\System.Web.WebPages.Razor.dll
+D:\Arti\MVCTestDemo\MVCTestDemo\bin\WebGrease.dll
+D:\Arti\MVCTestDemo\MVCTestDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Arti\MVCTestDemo\MVCTestDemo\bin\System.Web.Helpers.xml
+D:\Arti\MVCTestDemo\MVCTestDemo\bin\System.Web.Mvc.xml
+D:\Arti\MVCTestDemo\MVCTestDemo\bin\System.Web.Optimization.xml
+D:\Arti\MVCTestDemo\MVCTestDemo\bin\System.Web.Razor.xml
+D:\Arti\MVCTestDemo\MVCTestDemo\bin\System.Web.WebPages.xml
+D:\Arti\MVCTestDemo\MVCTestDemo\bin\System.Web.WebPages.Deployment.xml
+D:\Arti\MVCTestDemo\MVCTestDemo\bin\System.Web.WebPages.Razor.xml
+D:\Arti\MVCTestDemo\MVCTestDemo\bin\Antlr3.Runtime.pdb
+D:\Arti\MVCTestDemo\MVCTestDemo\bin\Newtonsoft.Json.xml
+D:\Arti\MVCTestDemo\MVCTestDemo\bin\EntityFramework.xml
+D:\Arti\MVCTestDemo\MVCTestDemo\bin\EntityFramework.SqlServer.xml
+D:\Arti\MVCTestDemo\MVCTestDemo\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Arti\MVCTestDemo\MVCTestDemo\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Arti\MVCTestDemo\MVCTestDemo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Arti\MVCTestDemo\MVCTestDemo\bin\Microsoft.Owin.xml
+D:\Arti\MVCTestDemo\MVCTestDemo\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Arti\MVCTestDemo\MVCTestDemo\bin\Microsoft.Owin.Security.xml
+D:\Arti\MVCTestDemo\MVCTestDemo\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Arti\MVCTestDemo\MVCTestDemo\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Arti\MVCTestDemo\MVCTestDemo\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Arti\MVCTestDemo\MVCTestDemo\bin\Microsoft.Owin.Security.Google.xml
+D:\Arti\MVCTestDemo\MVCTestDemo\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Arti\MVCTestDemo\MVCTestDemo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Arti\MVCTestDemo\MVCTestDemo\obj\Debug\MVCTestDemo.csprojResolveAssemblyReference.cache
+D:\Arti\MVCTestDemo\MVCTestDemo\obj\Debug\MVCTestDemo.dll
+D:\Arti\MVCTestDemo\MVCTestDemo\obj\Debug\MVCTestDemo.pdb
